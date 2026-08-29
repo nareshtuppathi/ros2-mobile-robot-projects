@@ -1,6 +1,6 @@
 # ROS 2 Mobile Robot Projects 🤖
 
-A collection of ROS 2 robotics projects developed using TurtleBot3, Gazebo simu>
+ROS 2-based mobile robot project featuring URDF modeling, Gazebo simulation, RViz visualization, and autonomous navigation.
 
 ## Environment
 
