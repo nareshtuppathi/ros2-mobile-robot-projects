@@ -1,6 +1,7 @@
 # ROS 2 Mobile Robot Projects 🤖
 
-ROS 2-based mobile robot project featuring URDF modeling, Gazebo simulation, RViz visualization, and autonomous navigation.
+This repository contains the ROS 2-based mobile robot project featuring URDF modeling, Gazebo simulation, RViz visualization, and autonomous navigation using computer vision, machine learning.
+
 
 ## Environment
 
